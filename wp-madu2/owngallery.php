@@ -1,0 +1,10 @@
+<?php
+/*** MY OWN GALLERY **/
+// remove the  WordPress function
+remove_shortcode('gallery', 'gallery_shortcode');
+// add our own replacement function
+add_shortcode('gallery', 'myown_gallery_shortcode');
+
+
+
+?>

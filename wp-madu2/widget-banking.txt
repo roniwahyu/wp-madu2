@@ -1,0 +1,18 @@
+<div class="info rounded7">
+						<h4 class="rounded7">Transfer Tunai</h4>
+						<ul class="banking">
+							<li class="bca">1281 489 637<br/>
+								Hj.Ambinari Ir.</li>
+							<li class="mandiri">127.00.0479335.0<br/>
+								Ir.Ambinari</li>
+							
+						</ul>
+						<h5>Konfirmasi Pembayaran/Transfer</h5>
+<ul class="kontak">
+<li class="telp">02178830046</li>
+<li class="hp">081905462979</li>
+</ul>										
+<a target="_blank" href="http://ymgen.com/chat.php?idne=sarana.sakinah@yahoo.com">
+						<img border="0" src="http://opi.yahoo.com/online?u=sarana.sakinah@yahoo.com&m=g&t=1"></a>
+
+					</div><div class="clear">&nbsp;</div>
